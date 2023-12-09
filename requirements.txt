@@ -1,0 +1,11 @@
+pymongo
+tensorflow
+kafka-python
+TikTokLive
+pytchat
+pandas
+transformers
+flask
+requests
+sentencepiece
+flask-cors
